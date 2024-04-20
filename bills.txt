@@ -1,0 +1,45 @@
+       Welcome To FAMT's  store
+               Invoice
+
+Bill No. : 6492
+Customer Name : Arman Nakhwa
+Customer Mail : www.armannakhwa99@gmail.com
+Phone No. : 1122
+Date. : 2021-05-03 14:56:18
+===================================
+Product          Qty         Price
+===================================
+Shower gel        1           100
+Limka             1           60
+ Total : 168.0
+
+
+       Welcome To FAMT's  store
+               Invoice
+
+Bill No. : 2513
+Customer Name : arman
+Customer Mail : armannakhwa19@gmail.com
+Phone No. : 
+Date. : 2021-05-03 15:02:41
+===================================
+Product          Qty         Price
+===================================
+ Total : 0.0
+
+
+       Welcome To FAMT's  store
+               Invoice
+
+Bill No. : 3434
+Customer Name : Arman
+Customer Mail : armannakhwa19@gmail.com
+Phone No. : 123
+Date. : 2021-05-03 15:41:01
+===================================
+Product          Qty         Price
+===================================
+Shower gel        1           100
+ Total : 105.0
+
+
